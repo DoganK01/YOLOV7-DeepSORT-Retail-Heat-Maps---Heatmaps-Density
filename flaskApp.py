@@ -1,6 +1,3 @@
-#Created by Augmented Startups
-#YOLOv7 Flask Application
-#Enroll at www.augmentedstartups.com/store
 from cProfile import label
 from decimal import ROUND_HALF_UP, ROUND_UP
 from wsgiref.validate import validator
